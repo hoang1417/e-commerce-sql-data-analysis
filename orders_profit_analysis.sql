@@ -1,3 +1,7 @@
+-- Identify the databse
+USE [ORDER_DATA]
+GO
+
 /* Overall observation */
 SELECT * FROM Orders;
 
